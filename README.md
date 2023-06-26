@@ -1,4 +1,4 @@
-# React AI Frontend Project
+<!-- # React AI Frontend Project
 
 This is a practice project for developing a React frontend website focused on Artificial Intelligence (AI). The main goal of this project is to showcase my development skills and create a portfolio piece to highlight my abilities in building react applications.
 
@@ -32,4 +32,4 @@ The Library section serves as a resource hub for users interested in diving deep
 
 ## Conclusion
 
-This README provides an outline for a React frontend project focused on AI development. By implementing this project, you can showcase my skills in React and create a valuable addition to my portfolio.
+This README provides an outline for a React frontend project focused on AI development. By implementing this project, you can showcase my skills in React and create a valuable addition to my portfolio. -->
