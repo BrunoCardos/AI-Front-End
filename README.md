@@ -1,8 +1,42 @@
-<!-- # React AI Frontend Project
+# React AI Frontend Project
 
 This is a practice project for developing a React frontend website focused on Artificial Intelligence (AI). The main goal of this project is to showcase my development skills and create a portfolio piece to highlight my abilities in building react applications.
 
-## Table of Contents
+### Desktop view
+
+<div align="center">
+  <img src="https://github.com/Steravy/AI-Front-End/blob/main/public/app-sreen-shots/b_dsk.png" alt="Markdown Previewer Desktop" width="800px" height='auto' />
+</div>
+
+### Mobile view
+
+<div align="center">
+  <img src="https://github.com/Steravy/AI-Front-End/blob/main/public/app-sreen-shots/b_mobile.png" alt="Markdown Previewer Mobile" width="400px" height='auto' />
+</div>
+
+
+## Getting Started
+
+Follow these instructions to get the project up and running on your local machine:
+
+1. Clone the repository: `git clone https://github.com/BrunoCardos/AI-Front-End.git`
+2. Navigate to the project folder: `cd AI-Front-End`
+3. Install dependencies: `npm install`
+4. Start the development server: `npm start`
+5. Open your web browser and visit: [http://localhost:3000]
+
+## Technologies Used
+
+- React
+- HTML
+- CSS
+- Tailwind CSS
+
+## Author
+
+[Bruno Cardoso](https://github.com/BrunoCardos)
+
+<!-- ## Table of Contents
 
 - [Home](#home)
 - [What Is GPT?](#what-is-gpt)
